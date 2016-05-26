@@ -1,0 +1,629 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* SudokuAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 2363}}";
+			sepNavSelRange = "{221, 0}";
+			sepNavVisRange = "{0, 571}";
+		};
+	};
+	1D3623250D0F684500981E51 /* SudokuAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1132, 10030}}";
+			sepNavSelRange = "{15260, 0}";
+			sepNavVisRange = "{14874, 617}";
+			sepNavWindowFrame = "{{19, 118}, {1012, 655}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Sudoku */ = {
+		activeExec = 0;
+		executables = (
+			C79AD03F138428F100F86D61 /* Sudoku */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GameViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {988, 4981}}";
+			sepNavSelRange = "{575, 0}";
+			sepNavVisRange = "{396, 674}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GameViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1788, 35377}}";
+			sepNavSelRange = "{5070, 0}";
+			sepNavVisRange = "{4785, 726}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C79AD03F138428F100F86D61 /* Sudoku */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Sudoku */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Sudoku */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = C79AD052138428FF00F86D61 /* Code sense */;
+		executables = (
+			C79AD03F138428F100F86D61 /* Sudoku */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					616.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					729,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					689,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 328351280;
+			PBXWorkspaceStateSaveDate = 328351280;
+		};
+		perUserProjectItems = {
+			C79AD7DD13929DC900F86D61 /* PBXTextBookmark */ = C79AD7DD13929DC900F86D61 /* PBXTextBookmark */;
+			C79AD7DE13929DC900F86D61 /* PBXTextBookmark */ = C79AD7DE13929DC900F86D61 /* PBXTextBookmark */;
+			C79AD7E013929DC900F86D61 /* PBXTextBookmark */ = C79AD7E013929DC900F86D61 /* PBXTextBookmark */;
+			C79AD7EA13929E0700F86D61 /* PBXTextBookmark */ = C79AD7EA13929E0700F86D61 /* PBXTextBookmark */;
+			C79AD80A139DEE0D00F86D61 /* PBXTextBookmark */ = C79AD80A139DEE0D00F86D61 /* PBXTextBookmark */;
+			C79AD80B139DEE0D00F86D61 /* PBXBookmark */ = C79AD80B139DEE0D00F86D61 /* PBXBookmark */;
+			C79AD80C139DEE0D00F86D61 /* PBXTextBookmark */ = C79AD80C139DEE0D00F86D61 /* PBXTextBookmark */;
+			C79AD824139DF40F00F86D61 /* PBXTextBookmark */ = C79AD824139DF40F00F86D61 /* PBXTextBookmark */;
+			C79AD825139DF40F00F86D61 /* PlistBookmark */ = C79AD825139DF40F00F86D61 /* PlistBookmark */;
+			C79AD826139DF40F00F86D61 /* PBXTextBookmark */ = C79AD826139DF40F00F86D61 /* PBXTextBookmark */;
+			C79AD827139DF40F00F86D61 /* PBXTextBookmark */ = C79AD827139DF40F00F86D61 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C79AD051138428FF00F86D61 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4E0403421034CD440085E6BD /* HistoryToolBar.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 459}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 446}";
+		};
+	};
+	4E0403431034CD440085E6BD /* HistoryToolBar.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 1666}}";
+			sepNavSelRange = "{1625, 0}";
+			sepNavVisRange = "{1139, 622}";
+		};
+	};
+	4E08CCE6102F31EC00D301F1 /* ProgressToolBar.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 629}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{185, 591}";
+		};
+	};
+	4E08CCE7102F31EC00D301F1 /* ProgressToolBar.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 2431}}";
+			sepNavSelRange = "{2482, 0}";
+			sepNavVisRange = "{2134, 796}";
+		};
+	};
+	4E13BD1A0FC4815600330DA5 /* GameBoardItemView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 1037}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 569}";
+		};
+	};
+	4E13BD1B0FC4815600330DA5 /* GameBoardItemView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1220, 2805}}";
+			sepNavSelRange = "{532, 19}";
+			sepNavVisRange = "{421, 697}";
+		};
+	};
+	4E48F8C31088535D0016FA40 /* ImageViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 459}}";
+			sepNavSelRange = "{275, 28}";
+			sepNavVisRange = "{0, 531}";
+		};
+	};
+	4E48F8C41088535D0016FA40 /* ImageViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1132, 1394}}";
+			sepNavSelRange = "{1750, 0}";
+			sepNavVisRange = "{1232, 881}";
+		};
+	};
+	4E4D70FB0FCC024700451989 /* ToolBarDefenitions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 435}}";
+			sepNavSelRange = "{177, 0}";
+			sepNavVisRange = "{0, 542}";
+		};
+	};
+	4E4D70FC0FCC024700451989 /* ToolBarDefenitions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1044, 1156}}";
+			sepNavSelRange = "{2609, 0}";
+			sepNavVisRange = "{2110, 2119}";
+		};
+	};
+	4E6AA629102D999700FA5586 /* Hints_Base.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 19839}}";
+			sepNavSelRange = "{16028, 0}";
+			sepNavVisRange = "{15835, 753}";
+		};
+	};
+	4E6AA7E2102DFA5800FA5586 /* Hints_Utils.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1004, 1003}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 415}";
+		};
+	};
+	4EECA5AC10713C6A0028EC34 /* StaticHintToolBar.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 459}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 522}";
+		};
+	};
+	4EECA5AD10713C6A0028EC34 /* StaticHintToolBar.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {956, 1054}}";
+			sepNavSelRange = "{861, 0}";
+			sepNavVisRange = "{356, 956}";
+		};
+	};
+	4EF47A350FC995FF00037D43 /* GameBoardUtils.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 458}}";
+			sepNavSelRange = "{250, 17}";
+			sepNavVisRange = "{0, 477}";
+		};
+	};
+	4EF47A360FC995FF00037D43 /* GameBoardUtils.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1016, 6851}}";
+			sepNavSelRange = "{847, 0}";
+			sepNavVisRange = "{724, 338}";
+		};
+	};
+	4EF47A420FC996F000037D43 /* SudokuUtils.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 2227}}";
+			sepNavSelRange = "{238, 17}";
+			sepNavVisRange = "{0, 467}";
+		};
+	};
+	4EF47A430FC996F000037D43 /* SudokuUtils.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 9877}}";
+			sepNavSelRange = "{1949, 0}";
+			sepNavVisRange = "{1653, 657}";
+		};
+	};
+	4EF5F4B00FBB33F90095A320 /* MenuDefenitions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 458}}";
+			sepNavSelRange = "{218, 0}";
+			sepNavVisRange = "{0, 412}";
+		};
+	};
+	4EF5F4B10FBB33F90095A320 /* MenuDefenitions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {956, 9571}}";
+			sepNavSelRange = "{13270, 18}";
+			sepNavVisRange = "{13089, 961}";
+		};
+	};
+	4EF7885A10823BCF00563E18 /* FlyingKeypadView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1092, 1088}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{26, 761}";
+		};
+	};
+	4EF7885B10823BCF00563E18 /* FlyingKeypadView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1084, 7582}}";
+			sepNavSelRange = "{3713, 10}";
+			sepNavVisRange = "{3802, 693}";
+		};
+	};
+	4EFA39BD105479770061F663 /* StateToolBar.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 527}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 512}";
+		};
+	};
+	4EFA39BE105479770061F663 /* StateToolBar.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1052, 1683}}";
+			sepNavSelRange = "{1445, 0}";
+			sepNavVisRange = "{1284, 1073}";
+		};
+	};
+	4EFD284B1077DB5F002DCF94 /* SoundUtils.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 458}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 386}";
+		};
+	};
+	4EFD284C1077DB5F002DCF94 /* SoundUtils.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 2227}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2405, 415}";
+		};
+	};
+	4EFD28E01077F8BB002DCF94 /* HelpViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 458}}";
+			sepNavSelRange = "{220, 28}";
+			sepNavVisRange = "{0, 415}";
+		};
+	};
+	4EFD28E11077F8BB002DCF94 /* HelpViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1132, 1462}}";
+			sepNavSelRange = "{1624, 0}";
+			sepNavVisRange = "{1276, 817}";
+		};
+	};
+	4EFD2958107800EF002DCF94 /* PausedViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 458}}";
+			sepNavSelRange = "{292, 9}";
+			sepNavVisRange = "{0, 370}";
+			sepNavWindowFrame = "{{42, 97}, {1012, 655}}";
+		};
+	};
+	4EFD2959107800EF002DCF94 /* PausedViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1132, 1394}}";
+			sepNavSelRange = "{1988, 0}";
+			sepNavVisRange = "{1322, 776}";
+			sepNavWindowFrame = "{{65, 76}, {1012, 655}}";
+		};
+	};
+	4EFF4F4F10543FC9008C51CE /* Hints_XYWings.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1380, 3281}}";
+			sepNavSelRange = "{5054, 0}";
+			sepNavVisRange = "{4832, 492}";
+		};
+	};
+	93321A100F84243B00DE32B9 /* MenuItemView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1188, 1445}}";
+			sepNavSelRange = "{204, 0}";
+			sepNavVisRange = "{147, 817}";
+		};
+	};
+	93321A110F84243B00DE32B9 /* MenuItemView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1572, 3281}}";
+			sepNavSelRange = "{4060, 0}";
+			sepNavVisRange = "{3685, 881}";
+		};
+	};
+	93321A120F84243B00DE32B9 /* MenuView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1188, 1581}}";
+			sepNavSelRange = "{787, 0}";
+			sepNavVisRange = "{346, 903}";
+		};
+	};
+	93321A130F84243B00DE32B9 /* MenuView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1748, 5219}}";
+			sepNavSelRange = "{4124, 0}";
+			sepNavVisRange = "{3145, 764}";
+		};
+	};
+	9385F0F50F7FC1D30046784B /* SkinManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 2907}}";
+			sepNavSelRange = "{2600, 50}";
+			sepNavVisRange = "{2261, 857}";
+		};
+	};
+	9385F0F60F7FC1D30046784B /* SkinManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 7208}}";
+			sepNavSelRange = "{13625, 28}";
+			sepNavVisRange = "{13174, 639}";
+		};
+	};
+	9385F2060F7FF1EA0046784B /* ToolBarView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 799}}";
+			sepNavSelRange = "{424, 0}";
+			sepNavVisRange = "{0, 446}";
+		};
+	};
+	9385F2070F7FF1EA0046784B /* ToolBarView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {980, 1734}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1272, 818}";
+		};
+	};
+	9385F2620F801C8E0046784B /* GameBoardView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 969}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{197, 642}";
+		};
+	};
+	9385F2630F801C8E0046784B /* GameBoardView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1068, 7412}}";
+			sepNavSelRange = "{1868, 0}";
+			sepNavVisRange = "{1428, 639}";
+		};
+	};
+	9398C1CC0F813C3900FF7BB7 /* ToolBarButtonView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 4726}}";
+			sepNavSelRange = "{1090, 14}";
+			sepNavVisRange = "{933, 542}";
+		};
+	};
+	C79AD03F138428F100F86D61 /* Sudoku */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Sudoku;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	C79AD051138428FF00F86D61 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C79AD052138428FF00F86D61 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C79AD06013842F7200F86D61 /* GameCenter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 527}}";
+			sepNavSelRange = "{546, 0}";
+			sepNavVisRange = "{53, 640}";
+		};
+	};
+	C79AD06113842F7200F86D61 /* GameCenter.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1132, 4930}}";
+			sepNavSelRange = "{1495, 0}";
+			sepNavVisRange = "{7273, 600}";
+		};
+	};
+	C79AD2021392404200F86D61 /* Resolution.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 451}}";
+			sepNavSelRange = "{123, 0}";
+			sepNavVisRange = "{0, 562}";
+		};
+	};
+	C79AD2031392404200F86D61 /* Resolution.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {907, 2550}}";
+			sepNavSelRange = "{4066, 0}";
+			sepNavVisRange = "{3912, 569}";
+		};
+	};
+	C79AD7DD13929DC900F86D61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4EF47A360FC995FF00037D43 /* GameBoardUtils.m */;
+		name = "GameBoardUtils.m: 34";
+		rLen = 0;
+		rLoc = 847;
+		rType = 0;
+		vrLen = 801;
+		vrLoc = 724;
+	};
+	C79AD7DE13929DC900F86D61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4EF47A430FC996F000037D43 /* SudokuUtils.m */;
+		name = "SudokuUtils.m: 81";
+		rLen = 0;
+		rLoc = 1949;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 1653;
+	};
+	C79AD7E013929DC900F86D61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4E13BD1B0FC4815600330DA5 /* GameBoardItemView.m */;
+		name = "GameBoardItemView.m: 27";
+		rLen = 19;
+		rLoc = 532;
+		rType = 0;
+		vrLen = 697;
+		vrLoc = 421;
+	};
+	C79AD7EA13929E0700F86D61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9385F0F60F7FC1D30046784B /* SkinManager.m */;
+		name = "SkinManager.m: 393";
+		rLen = 28;
+		rLoc = 13625;
+		rType = 0;
+		vrLen = 639;
+		vrLoc = 13174;
+	};
+	C79AD80A139DEE0D00F86D61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9385F2630F801C8E0046784B /* GameBoardView.m */;
+		name = "GameBoardView.m: 87";
+		rLen = 0;
+		rLoc = 1868;
+		rType = 0;
+		vrLen = 639;
+		vrLoc = 1428;
+	};
+	C79AD80B139DEE0D00F86D61 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C79AD2AF13924DBF00F86D61 /* bar_top_0@2x.png */;
+	};
+	C79AD80C139DEE0D00F86D61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GameViewController.m */;
+		name = "GameViewController.m: 164";
+		rLen = 0;
+		rLoc = 4849;
+		rType = 0;
+		vrLen = 833;
+		vrLoc = 4678;
+	};
+	C79AD824139DF40F00F86D61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C79AD2021392404200F86D61 /* Resolution.h */;
+		name = "Resolution.h: 7";
+		rLen = 0;
+		rLoc = 123;
+		rType = 0;
+		vrLen = 562;
+		vrLoc = 0;
+	};
+	C79AD825139DF40F00F86D61 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/konst/prog/SuDoku V2.00/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	C79AD826139DF40F00F86D61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C79AD2031392404200F86D61 /* Resolution.m */;
+		name = "Resolution.m: 136";
+		rLen = 0;
+		rLoc = 4066;
+		rType = 0;
+		vrLen = 569;
+		vrLoc = 3912;
+	};
+	C79AD827139DF40F00F86D61 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C79AD2031392404200F86D61 /* Resolution.m */;
+		name = "Resolution.m: 136";
+		rLen = 0;
+		rLoc = 4066;
+		rType = 0;
+		vrLen = 569;
+		vrLoc = 3912;
+	};
+}
